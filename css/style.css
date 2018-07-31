@@ -38,3 +38,7 @@ p{
 	font-size: 1em;
 	margin: 0 0 20px 0;
 }
+
+ img {
+	border: 5px rgb(152,173,166) solid;
+}
